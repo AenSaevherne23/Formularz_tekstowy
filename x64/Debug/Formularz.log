@@ -1,0 +1,4 @@
+﻿  Formularz.cpp
+M:\Interakcja człowiek - komputer\Formularz_gotowy\Formularz.cpp(131,17): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+M:\Interakcja człowiek - komputer\Formularz_gotowy\Formularz.cpp(131,21): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+  Formularz.vcxproj -> M:\Interakcja człowiek - komputer\Formularz_gotowy\x64\Debug\Formularz.exe

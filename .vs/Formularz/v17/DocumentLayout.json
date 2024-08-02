@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studia\\ROK III\\Interakcja cz\u0142owiek - komputer\\Formularz_gotowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26FAEFB8-DCDB-40EA-839E-5FEB699212A8}|Formularz.vcxproj|D:\\Studia\\ROK III\\Interakcja cz\u0142owiek - komputer\\Formularz_gotowy\\Formularz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26FAEFB8-DCDB-40EA-839E-5FEB699212A8}|Formularz.vcxproj|solutionrelative:Formularz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formularz.cpp",
+              "DocumentMoniker": "D:\\Studia\\ROK III\\Interakcja cz\u0142owiek - komputer\\Formularz_gotowy\\Formularz.cpp",
+              "RelativeDocumentMoniker": "Formularz.cpp",
+              "ToolTip": "D:\\Studia\\ROK III\\Interakcja cz\u0142owiek - komputer\\Formularz_gotowy\\Formularz.cpp",
+              "RelativeToolTip": "Formularz.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAEIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-02T07:55:23.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
